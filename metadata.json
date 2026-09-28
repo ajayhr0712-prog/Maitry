@@ -1,0 +1,6 @@
+{
+  "name": "Maitry",
+  "description": "India's friendship-first subscription dating app. Safe, verified, respectful connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
